@@ -11,3 +11,7 @@ The dataset used for this analysis was sourced from Kaggle and consists of 30,00
 
 ## Tools and Techniques  
 For this project, I used Excel to clean and preprocess the data, create pivot tables for insights, and apply conditional formatting to identify trends. Statistical formulas were also used to evaluate performance. Additionally, I built an interactive dashboard that highlights key findings and trends.  
+
+Please download the Media(zip).zip file to access all screenshots and recordings.
+
+
